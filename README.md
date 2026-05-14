@@ -119,14 +119,7 @@ The implementation is developed in Python using Jupyter Notebook.
 
 ---
 
-## Authors
 
-* Đặng Bá Trần Trung
-
-Faculty of Electronics and Telecommunications
-VNUHCM - University of Science
-
----
 
 ## References
 
